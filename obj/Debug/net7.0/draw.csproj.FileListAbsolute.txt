@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/draw/bin/Debug/net7.0/draw
+/Users/macos/Desktop/Operator/draw/bin/Debug/net7.0/draw.deps.json
+/Users/macos/Desktop/Operator/draw/bin/Debug/net7.0/draw.runtimeconfig.json
+/Users/macos/Desktop/Operator/draw/bin/Debug/net7.0/draw.dll
+/Users/macos/Desktop/Operator/draw/bin/Debug/net7.0/draw.pdb
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/draw.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/draw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/draw.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/draw.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/draw.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/draw.dll
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/refint/draw.dll
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/draw.pdb
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/draw.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/draw/obj/Debug/net7.0/ref/draw.dll
